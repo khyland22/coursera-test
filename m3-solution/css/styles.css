@@ -74,6 +74,8 @@ body {
 @media (min-width: 992px) {
   .container .jumbotron {
 	height: 1200px;
+	padding: 10px;
+
   }
 }
 
@@ -83,6 +85,8 @@ body {
   /* Home Page */
   .container .jumbotron {
 	height: 1000px;
+	padding: 5px;
+
   }
   /* End Home Page */
 }
